@@ -39,8 +39,6 @@ This project implements an advanced customer analytics pipeline that combines tr
 - [📈 Model Results](#-model-results)
 - [💡 Key Insights](#-key-insights)
 - [🎯 Business Strategy Recommendations](#-business-strategy-recommendations)
-- [🚀 Quick Start](#-quick-start)
-- [📂 Project Structure](#-project-structure)
 - [🔮 Future Enhancements](#-future-enhancements)
 - [🛠 Tech Stack](#-tech-stack)
 - [📄 License](#-license)
